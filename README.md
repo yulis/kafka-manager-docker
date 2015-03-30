@@ -1,2 +1,2 @@
 # kafka-manager-docker
-Yahoo's Kafka manager in container
+Dockerized [Yahoo's Kafka manager](https://github.com/yahoo/kafka-manager) 
